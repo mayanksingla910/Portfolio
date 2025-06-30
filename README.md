@@ -42,7 +42,8 @@ Welcome to my personal portfolio website! This is a sleek, single-page responsiv
 ## 🖼️ Screenshots
 
 ### 💻 Desktop View
-![Desktop Screenshot](./screenshots/desktop.png)
+![Desktop Screenshot](./screenshots/desktop1.png)
+![Desktop Screenshot](./screenshots/desktop2.png)
 
 ---
 
